@@ -1,0 +1,18 @@
+{
+    "name": "aslfaslas/php_funkos_complejo",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JoselynO",
+            "email": "obandofernandez1@gmail.com"
+        }
+    ],
+    "require": {
+        "ramsey/uuid": "^4.7",
+        "ext-pdo": "*"
+    }
+}
